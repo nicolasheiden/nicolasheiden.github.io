@@ -831,6 +831,27 @@ html body #main_content .project-gallery img {
   border-radius: 10px;
 }
 
+html body #main_content .project-media-link {
+  display: block;
+  border-radius: 10px;
+}
+
+html body #main_content .project-media-link:focus-visible {
+  outline: 3px solid var(--ink);
+  outline-offset: 3px;
+}
+
+html body #main_content .project-title-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+html body #main_content .project-title-link:hover {
+  text-decoration: underline;
+  text-decoration-color: #999999;
+  text-underline-offset: 3px;
+}
+
 html body #main_content .project-gallery {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
