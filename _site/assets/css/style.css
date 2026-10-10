@@ -689,8 +689,14 @@ dd p:first-child {
 html {
   min-height: 100%;
   background: #000000;
+  scroll-behavior: smooth;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
 html body {
   background: #000000;
   color: var(--ink);
