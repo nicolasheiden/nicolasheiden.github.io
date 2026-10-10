@@ -9,7 +9,7 @@
 
 
 <h2 id="about"><u>Who am I?</u></h2>
-### My name is Nicolas Heiden. I'm a Swedish, American Game Programmer/Designer studying at YRGO Game Programmer in Gothenburg, Sweden. I love all things nerdy and love to compete in everything from games to sports. I used to be a Semi-Professional Basketball player but now I have picked up playing Flesh and Blood TCG (Trading Card Game) professionally to scratch that competetive itch. I've always had a love for gaming from playing the orginal LEGO Star Wars games to getting destroyed in Elden Ring. I have played almost every genre of video game as I love to try new things and learn about what we can accomplish as game creators. Making games has been a dream of mine for a long time and I hope to continue making fun and interesting games.
+My name is Nicolas Heiden. I'm a Swedish, American Game Programmer/Designer studying at YRGO Game Programmer in Gothenburg, Sweden. I love all things nerdy and love to compete in everything from games to sports. I used to be a Semi-Professional Basketball player but now I have picked up playing Flesh and Blood TCG (Trading Card Game) professionally to scratch that competetive itch. I've always had a love for gaming from playing the orginal LEGO Star Wars games to getting destroyed in Elden Ring. I have played almost every genre of video game as I love to try new things and learn about what we can accomplish as game creators. Making games has been a dream of mine for a long time and I hope to continue making fun and interesting games.
 
 Here are some of the Projects I've been involved with:
 
