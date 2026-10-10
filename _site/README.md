@@ -28,13 +28,14 @@
 		<img src="/Gifs/SO_GameplayGif.gif" alt="Shifting Order gameplay featuring the red panda protagonist">
 	</a>
 </figure>
-### - Terminal Designer/Programmer
+### My Roles
+- Terminal Designer/Programmer
 - Level Select Designer/Programmer
 - Level Designer
 
 Shifting Order is a 2D Puzzle, platforming game starring a Red Panda where you have to alter the world with a Terminal to be able to reach the end.
 
-<p><strong>My role</strong></p>
+<p class="project-role-heading"><strong>My role</strong></p>
 ### For Shifting Order my role was primarily focused on getting the interaction with the Terminal to work and feeling good to use as it is the main part of our gameplay in Shifting Order.
 
 I also designed how the Level Select would work. It is meant to look like an elevator button panel but with pages. It remembers which levels you've beaten and when you beat a level it automatically selects the next level. I used a lot of tweening to make it feel responsive. 
