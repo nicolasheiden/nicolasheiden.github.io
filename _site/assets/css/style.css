@@ -807,8 +807,9 @@ html body #main_content .media-rail figure {
 
 html body #main_content .media-rail img {
   display: block;
-  width: 100%;
-  max-width: 100%;
+  width: 66.667%;
+  max-width: 66.667%;
+  margin-inline: auto;
   height: auto;
 }
 
