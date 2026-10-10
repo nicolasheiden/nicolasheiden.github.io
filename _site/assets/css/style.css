@@ -787,6 +787,21 @@ html body #main_content .page-tabs a:focus-visible {
   outline: none;
 }
 
+html body #main_content .page-tabs a[href="#contact"] {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  color: var(--ink);
+  background: var(--paper);
+  border-bottom-color: var(--paper);
+}
+
+html body #main_content .page-tabs a[href="#contact"]:hover,
+html body #main_content .page-tabs a[href="#contact"]:focus-visible {
+  color: var(--ink);
+  border-bottom-color: #999999;
+}
+
 html body #main_content .project-tabs {
   position: sticky;
   top: 46px;
