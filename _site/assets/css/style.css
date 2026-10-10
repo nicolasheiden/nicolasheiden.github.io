@@ -820,6 +820,11 @@ html body #main_content .project-showcase {
   margin: 20px 0;
 }
 
+html body #main_content .project-showcase.poggle-media {
+  width: 45%;
+  margin: 20px auto;
+}
+
 html body #main_content .project-showcase img,
 html body #main_content .project-gallery img {
   display: block;

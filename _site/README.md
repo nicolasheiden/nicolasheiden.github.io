@@ -89,7 +89,7 @@ Through Bullet Row, I gained hands-on experience in gameplay systems, Blueprint-
 </figure>
 <figure>
 	<a class="project-media-link" href="https://yrgo.itch.io/bullet-row" target="_blank" rel="noopener noreferrer" aria-label="Open Bullet Row on itch.io">
-		<img src="/Gifs/BR_Gameplay.gif" alt="Bullet Row Gameplay">
+		<img src="/Gifs/BR_Shop.gif" alt="Bullet Row Shop">
 	</a>
 </figure>
 </div>
@@ -97,7 +97,7 @@ Through Bullet Row, I gained hands-on experience in gameplay systems, Blueprint-
 ---
 
 <h3>Poggle Ascension</h3>
-<figure class="project-showcase">
+<figure class="project-showcase poggle-media">
 	<img src="/Images/bingustitle.png" alt="Bingus title screen from Poggle Ascension">
 </figure>
 ### Poggle Ascension is a small, solo-developed mobile game created in Unity. Inspired by hearing about Peglin but never having played it, I set out to recreate the core concept based solely on what I knew about the game. I also designed and made all the art in the game using Asesprite.
@@ -105,6 +105,6 @@ Through Bullet Row, I gained hands-on experience in gameplay systems, Blueprint-
 The result is a short roguelike inspired by pachinko, where players launch Orbs onto a peg-filled board to earn enough points to progress to the next level. Between levels, players can purchase new Orbs and rearrange their firing order, adding a layer of strategy and progression to each run.
 
 The project was an opportunity to explore a new gameplay concept independently while challenging myself to recreate a game experience from secondhand knowledge.
-<figure class="project-showcase">
+<figure class="project-showcase poggle-media">
 	<img src="/Gifs/PA_Gameplay.gif" alt="Poggle Ascension gameplay">
 </figure>
