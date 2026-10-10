@@ -737,6 +737,7 @@ html body .shell header h2 {
 html body .shell header span.left-tail,
 html body .shell header span.right-tail,
 html body #no-downloads,
+html body a#forkme_banner,
 html body .banner-fix {
   display: none;
 }
@@ -881,6 +882,7 @@ html body .shell footer {
 }
 
 html body .shell footer span.ribbon-outer {
+  display: none;
   border: 0;
 }
 
