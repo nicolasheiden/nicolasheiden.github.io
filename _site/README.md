@@ -21,7 +21,7 @@
 
 ---
 
-<h2 id="projects"><u>Projects</u></h2>
+<h2 id="projects"><strong><u>Projects</u></strong></h2>
 <h3> Shifting Order </h3>
 <figure class="project-showcase">
 	<img src="/Gifs/SO_GameplayGif.gif" alt="Shifting Order gameplay featuring the red panda protagonist">

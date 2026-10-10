@@ -325,7 +325,10 @@ html body .shell footer span.ribbon-inner a:hover {
   color: var(--paper);
 }
 
-html body .shell footer > p,
+html body .shell footer > p {
+  display: none;
+}
+
 html body .shell footer > p a {
   color: var(--muted);
 }
