@@ -9,8 +9,9 @@
 
 
 <h2 id="about"><u>Who am I?</u></h2>
-### My name is Nicolas Heiden. I'm a Swedish, American Game Programmer/Designer studying at YRGO Game Programmer in Gothenburg, Sweden. I love all things nerdy and love to compete in everything from games to sports. I was a Semi-Professional Basketball player but after some injuries I had to quit. I have now picked up playing Flesh and Blood TCG (Trading Card Game) professionally to scratch that competetive itch. I've always had a love for gaming from playing the orginal LEGO Star Wars games to getting destroyed in Elden Ring. I have played almost every genre of video game as I love to try new things and learn about what we can accomplish as game creators.
-Here are some of the Projects I've been involved with.
+### My name is Nicolas Heiden. I'm a Swedish, American Game Programmer/Designer studying at YRGO Game Programmer in Gothenburg, Sweden. I love all things nerdy and love to compete in everything from games to sports. I used to be a Semi-Professional Basketball player but now I have picked up playing Flesh and Blood TCG (Trading Card Game) professionally to scratch that competetive itch. I've always had a love for gaming from playing the orginal LEGO Star Wars games to getting destroyed in Elden Ring. I have played almost every genre of video game as I love to try new things and learn about what we can accomplish as game creators. Making games has been a dream of mine for a long time and I hope to continue making fun and interesting games.
+
+Here are some of the Projects I've been involved with:
 
 </div>
 <aside class="media-rail" id="media" aria-label="Portfolio media">
@@ -65,10 +66,10 @@ Through Shifting Order, I gained experience in designing core gameplay interacti
 	</a>
 </figure>
 ### My Roles
--Shop Designer/Programmer
--Item Designer/Programmer
--Gambling Feature Designer/Programmer
--Gun Programmer
+- Shop Designer/Programmer
+- Item Designer/Programmer
+- Gambling Feature Designer/Programmer
+- Gun Programmer
 
 Bullet Row is a roguelike aim trainer developed entirely in Unreal Engine 5 using Blueprints. Set in a robotic Wild West, the game challenges players to visit a shooting gallery, take down robotic targets, and earn points in the form of Bounty and currency known as Bartender Bucks. These rewards allow players to purchase upgrades and keep pushing forward.
 
@@ -92,3 +93,18 @@ Through Bullet Row, I gained hands-on experience in gameplay systems, Blueprint-
 	</a>
 </figure>
 </div>
+
+---
+
+<h3>Poggle Ascension</h3>
+<figure class="project-showcase">
+	<img src="/Images/bingustitle.png" alt="Bingus title screen from Poggle Ascension">
+</figure>
+### Poggle Ascension is a small, solo-developed mobile game created in Unity. Inspired by hearing about Peglin but never having played it, I set out to recreate the core concept based solely on what I knew about the game. I also designed and made all the art in the game using Asesprite.
+
+The result is a short roguelike inspired by pachinko, where players launch Orbs onto a peg-filled board to earn enough points to progress to the next level. Between levels, players can purchase new Orbs and rearrange their firing order, adding a layer of strategy and progression to each run.
+
+The project was an opportunity to explore a new gameplay concept independently while challenging myself to recreate a game experience from secondhand knowledge.
+<figure class="project-showcase">
+	<img src="/Gifs/PA_Gameplay.gif" alt="Poggle Ascension gameplay">
+</figure>
