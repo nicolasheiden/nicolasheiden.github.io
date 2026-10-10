@@ -9,7 +9,8 @@
 
 
 <h2 id="about"><u>Who am I?</u></h2>
-### My name is Nicolas Heiden. I'm a Swedish, American Game Programmer/Designer studying in Gothenburg, Sweden. I love all things nerdy and love to compete in everything from games to sports. I was a Semi-Professional Basketball player but after some injuries, I have picked up playing Flesh and Blood TCG (Trading Card Game) professionally. Here are some of the Projects I've been involved with.
+### My name is Nicolas Heiden. I'm a Swedish, American Game Programmer/Designer studying at YRGO Game Programmer in Gothenburg, Sweden. I love all things nerdy and love to compete in everything from games to sports. I was a Semi-Professional Basketball player but after some injuries I had to quit. I have now picked up playing Flesh and Blood TCG (Trading Card Game) professionally to scratch that competetive itch. I've always had a love for gaming from playing the orginal LEGO Star Wars games to getting destroyed in Elden Ring. I have played almost every genre of video game as I love to try new things and learn about what we can accomplish as game creators.
+Here are some of the Projects I've been involved with.
 
 </div>
 <aside class="media-rail" id="media" aria-label="Portfolio media">
@@ -37,7 +38,7 @@ Shifting Order is a 2D Puzzle, platforming game starring a Red Panda where you h
 
 For Shifting Order my role was primarily focused on getting the interaction with the Terminal to work and feeling good to use as it is the main part of our gameplay in Shifting Order.
 
-I also designed how the Level Select would work. It is meant to look like an elevator button panel but with pages. It remembers which levels you've beaten and when you beat a level it automatically selects the next level. I used a lot of tweening to make it feel responsive. 
+I also designed how the Level Select would work. It is meant to look like an elevator button panel but with pages. It remembers which levels you've beaten and when you beat a level it automatically selects the next level. I used a lot of tweening to make it feel responsive and think it came out pretty nicely.
 <div class="project-gallery">
 	<figure>
 		<a class="project-media-link" href="https://yrgo.itch.io/shifting-order" target="_blank" rel="noopener noreferrer" aria-label="Open Shifting Order on itch.io">
@@ -50,3 +51,5 @@ I also designed how the Level Select would work. It is meant to look like an ele
 		</a>
 	</figure>
 </div>
+
+<h3><a class="project-title-link" href="https://yrgo.itch.io/bullet-row" target="_blank" rel="noopener noreferrer">Bullet Row</a></h3>
