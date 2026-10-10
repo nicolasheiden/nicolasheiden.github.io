@@ -169,11 +169,6 @@ html body #main_content .project-showcase {
   margin: 20px 0;
 }
 
-html body #main_content .project-showcase.poggle-media {
-  width: 45%;
-  margin: 20px auto;
-}
-
 html body #main_content .project-showcase img,
 html body #main_content .project-gallery img {
   display: block;
@@ -211,6 +206,12 @@ html body #main_content .project-gallery {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 20px;
   margin: 16px 0 24px;
+}
+
+html body #main_content .project-gallery.poggle-gallery {
+  width: 78%;
+  gap: 16px;
+  margin-inline: auto;
 }
 
 html body #main_content .project-gallery figure {
@@ -421,6 +422,11 @@ html body .shell footer > p a {
 
   html body #main_content .project-gallery {
     grid-template-columns: minmax(0, 1fr);
+  }
+
+  html body #main_content .project-gallery.poggle-gallery {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
   }
 
   html body .shell footer span.ribbon-inner p {
