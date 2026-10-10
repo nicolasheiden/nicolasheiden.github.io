@@ -35,19 +35,18 @@
 
 Shifting Order is a 2D Puzzle, platforming game starring a Red Panda where you have to alter the world with a Terminal to be able to reach the end.
 
-<p class="project-role-heading"><strong>My role</strong></p>
-### For Shifting Order my role was primarily focused on getting the interaction with the Terminal to work and feeling good to use as it is the main part of our gameplay in Shifting Order.
+For Shifting Order my role was primarily focused on getting the interaction with the Terminal to work and feeling good to use as it is the main part of our gameplay in Shifting Order.
 
 I also designed how the Level Select would work. It is meant to look like an elevator button panel but with pages. It remembers which levels you've beaten and when you beat a level it automatically selects the next level. I used a lot of tweening to make it feel responsive. 
 <div class="project-gallery">
 	<figure>
 		<a class="project-media-link" href="https://yrgo.itch.io/shifting-order" target="_blank" rel="noopener noreferrer" aria-label="Open Shifting Order on itch.io">
-			<img src="/Images/SO_TerminalGP.gif" alt="Shifting Order terminal puzzle interface">
+			<img src="/Gifs/SO_TerminalGP.gif" alt="Shifting Order terminal puzzle interface">
 		</a>
 	</figure>
 	<figure>
 		<a class="project-media-link" href="https://yrgo.itch.io/shifting-order" target="_blank" rel="noopener noreferrer" aria-label="Open Shifting Order on itch.io">
-			<img src="/Images/SO_LevelSelectGP.gif" alt="Shifting Order level select screen">
+			<img src="/Gifs/SO_LevelSelectGP.gif" alt="Shifting Order level select screen">
 		</a>
 	</figure>
 </div>
