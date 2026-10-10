@@ -756,7 +756,9 @@ html body #main_content .page-tabs {
   display: flex;
   gap: 4px;
   overflow-x: auto;
-  margin: -42px -40px 32px;
+  align-items: center;
+  min-height: 46px;
+  margin: -42px -40px 0;
   padding: 0 40px;
   background: var(--ink);
   scrollbar-width: thin;
@@ -767,6 +769,7 @@ html body #main_content .page-tabs a {
   padding: 12px 18px;
   color: var(--paper);
   font-size: 1rem;
+  line-height: 1.2;
   text-decoration: none;
   border-bottom: 3px solid transparent;
 }
@@ -778,10 +781,46 @@ html body #main_content .page-tabs a:focus-visible {
   outline: none;
 }
 
+html body #main_content .project-tabs {
+  position: sticky;
+  top: 46px;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 36px;
+  overflow-x: auto;
+  margin: 0 -40px 32px;
+  padding: 0 40px;
+  background: #303030;
+  scrollbar-width: thin;
+}
+
+html body #main_content .project-tabs a {
+  flex: 0 0 auto;
+  padding: 8px 14px;
+  color: #d0d0d0;
+  font-size: 0.85rem;
+  line-height: 1.2;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+
+html body #main_content .project-tabs a:hover,
+html body #main_content .project-tabs a:focus-visible {
+  color: var(--paper);
+  border-bottom-color: var(--paper);
+  outline: none;
+}
+
 html body #main_content #about,
 html body #main_content #projects,
-html body #main_content #media {
-  scroll-margin-top: 64px;
+html body #main_content #media,
+html body #main_content #contact,
+html body #main_content #shifting-order,
+html body #main_content #bullet-row,
+html body #main_content #poggle-ascension {
+  scroll-margin-top: 96px;
 }
 
 html body #main_content .portfolio-layout {
@@ -860,7 +899,7 @@ html body #main_content .project-gallery {
 }
 
 html body #main_content .project-gallery.poggle-gallery {
-  width: 78%;
+  width: 39%;
   gap: 16px;
   margin-inline: auto;
 }
@@ -1037,11 +1076,19 @@ html body .shell footer > p a {
     padding: 32px 24px 40px;
   }
   html body #main_content .page-tabs {
-    margin: -32px -24px 24px;
+    margin: -32px -24px 0;
     padding: 0 24px;
   }
   html body #main_content .page-tabs a {
     padding: 12px 14px;
+  }
+  html body #main_content .project-tabs {
+    top: 46px;
+    margin: 0 -24px 24px;
+    padding: 0 24px;
+  }
+  html body #main_content .project-tabs a {
+    padding: 8px 12px;
   }
   html body #main_content .portfolio-layout {
     grid-template-columns: minmax(0, 1fr);

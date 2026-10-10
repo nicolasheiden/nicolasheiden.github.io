@@ -1,7 +1,12 @@
 <nav class="page-tabs" aria-label="Page sections">
 	<a href="#about">About</a>
 	<a href="#projects">Projects</a>
-	<a href="#media">Media</a>
+	<a href="#contact">Contact</a>
+</nav>
+<nav class="project-tabs" aria-label="Project sections">
+	<a href="#shifting-order">Shifting Order</a>
+	<a href="#bullet-row">Bullet Row</a>
+	<a href="#poggle-ascension">Poggle Ascension</a>
 </nav>
 
 <div class="portfolio-layout">
@@ -24,7 +29,7 @@ Here are some of the Projects I've been involved with:
 ---
 
 <h2 id="projects"><strong><u>Projects</u></strong></h2>
-<h3><a class="project-title-link" href="https://yrgo.itch.io/shifting-order" target="_blank" rel="noopener noreferrer">Shifting Order</a></h3>
+<h3 id="shifting-order"><a class="project-title-link" href="https://yrgo.itch.io/shifting-order" target="_blank" rel="noopener noreferrer">Shifting Order</a></h3>
 <figure class="project-showcase">
 	<a class="project-media-link" href="https://yrgo.itch.io/shifting-order" target="_blank" rel="noopener noreferrer" aria-label="Open Shifting Order on itch.io">
 		<img src="/Gifs/SO_GameplayGif.gif" alt="Shifting Order gameplay featuring the red panda protagonist">
@@ -59,7 +64,7 @@ Through Shifting Order, I gained experience in designing core gameplay interacti
 
 ---
 
-<h3><a class="project-title-link" href="https://yrgo.itch.io/bullet-row" target="_blank" rel="noopener noreferrer">Bullet Row</a></h3>
+<h3 id="bullet-row"><a class="project-title-link" href="https://yrgo.itch.io/bullet-row" target="_blank" rel="noopener noreferrer">Bullet Row</a></h3>
 <figure class="project-showcase">
 	<a class="project-media-link" href="https://yrgo.itch.io/bullet-row" target="_blank" rel="noopener noreferrer" aria-label="Open Bullet Row on itch.io">
 		<img src="/Gifs/BR_Gameplay.gif" alt="Bullet Row Gameplay">
@@ -96,7 +101,7 @@ Through Bullet Row, I gained hands-on experience in gameplay systems, Blueprint-
 
 ---
 
-<h3>Poggle Ascension</h3>
+<h3 id="poggle-ascension">Poggle Ascension</h3>
 <div class="project-gallery poggle-gallery">
 	<figure>
 		<img src="/Images/bingustitle.png" alt="Bingus title screen from Poggle Ascension">
@@ -105,8 +110,15 @@ Through Bullet Row, I gained hands-on experience in gameplay systems, Blueprint-
 		<img src="/Gifs/PA_Gameplay.gif" alt="Poggle Ascension gameplay">
 	</figure>
 </div>
-### Poggle Ascension is a small, solo-developed mobile game created in Unity. Inspired by hearing about Peglin but never having played it, I set out to recreate the core concept based solely on what I knew about the game. I also designed and made all the art in the game using Asesprite.
+Poggle Ascension is a small, solo-developed mobile game created in Unity. Inspired by hearing about Peglin but never having played it, I set out to recreate the core concept based solely on what I knew about the game. I also designed and made all the art in the game using Asesprite.
 
 The result is a short roguelike inspired by pachinko, where players launch Orbs onto a peg-filled board to earn enough points to progress to the next level. Between levels, players can purchase new Orbs and rearrange their firing order, adding a layer of strategy and progression to each run.
 
 The project was an opportunity to explore a new gameplay concept independently while challenging myself to recreate a game experience from secondhand knowledge.
+
+
+<h2 id="contact">Contact</h2>
+
+- **Email:** [nicolasheiden@hotmail.com](mailto:nicolasheiden@hotmail.com)
+- **Itch:** [superguardian.itch.io](https://superguardian.itch.io)
+- **LinkedIn:** [linkedin.com/in/nicolasheiden](https://www.linkedin.com/in/nicolasheiden)
