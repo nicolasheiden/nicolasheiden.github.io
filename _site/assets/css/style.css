@@ -704,7 +704,8 @@ html body .shell {
 }
 
 html body .shell header {
-  top: 36px;
+  top: 0;
+  margin: 36px auto 0;
   max-width: 780px;
 }
 
@@ -788,6 +789,24 @@ html body #main_content h6 {
   color: var(--ink);
   font-weight: 800;
   text-align: left;
+}
+
+html body #main_content .portfolio-copy h1 {
+  margin: 0 0 1rem;
+  font-size: 2.6rem;
+  line-height: 1.08;
+}
+
+html body #main_content .portfolio-copy h2 {
+  margin: 0 0 0.6rem;
+  font-size: 1.9rem;
+  line-height: 1.15;
+}
+
+html body #main_content .portfolio-copy h3 {
+  margin: 0 0 1.1rem;
+  font-size: 1.2rem;
+  line-height: 1.5;
 }
 
 html body #main_content .header-level-1,
@@ -900,7 +919,8 @@ html body .shell footer > p a {
     line-height: 1.5;
   }
   html body .shell header {
-    top: 24px;
+    top: 0;
+    margin-top: 24px;
   }
   html body .shell header h1 {
     padding: 20px 22px 6px;
@@ -915,6 +935,15 @@ html body .shell footer > p a {
   html body #main_content .portfolio-layout {
     grid-template-columns: minmax(0, 1fr);
     gap: 24px;
+  }
+  html body #main_content .portfolio-copy h1 {
+    font-size: 2.1rem;
+  }
+  html body #main_content .portfolio-copy h2 {
+    font-size: 1.6rem;
+  }
+  html body #main_content .portfolio-copy h3 {
+    font-size: 1.1rem;
   }
   html body #main_content .media-rail {
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
