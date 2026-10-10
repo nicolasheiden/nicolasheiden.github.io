@@ -688,11 +688,11 @@ dd p:first-child {
 
 html {
   min-height: 100%;
-  background: #f2f2f2;
+  background: #000000;
 }
 
 html body {
-  background: #f2f2f2;
+  background: #000000;
   color: var(--ink);
   font: normal normal 17px/1.7 "Coolvetica", sans-serif;
 }
@@ -747,6 +747,41 @@ html body #main_content {
   padding: 42px 40px 52px;
   background: var(--paper);
   box-shadow: 0 1px 0 var(--line);
+}
+
+html body #main_content .page-tabs {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  gap: 4px;
+  overflow-x: auto;
+  margin: -42px -40px 32px;
+  padding: 0 40px;
+  background: var(--ink);
+  scrollbar-width: thin;
+}
+
+html body #main_content .page-tabs a {
+  flex: 0 0 auto;
+  padding: 12px 18px;
+  color: var(--paper);
+  font-size: 1rem;
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+}
+
+html body #main_content .page-tabs a:hover,
+html body #main_content .page-tabs a:focus-visible {
+  color: var(--paper);
+  border-bottom-color: var(--paper);
+  outline: none;
+}
+
+html body #main_content #about,
+html body #main_content #projects,
+html body #main_content #media {
+  scroll-margin-top: 64px;
 }
 
 html body #main_content .portfolio-layout {
@@ -933,6 +968,13 @@ html body .shell footer > p a {
   }
   html body #main_content {
     padding: 32px 24px 40px;
+  }
+  html body #main_content .page-tabs {
+    margin: -32px -24px 24px;
+    padding: 0 24px;
+  }
+  html body #main_content .page-tabs a {
+    padding: 12px 14px;
   }
   html body #main_content .portfolio-layout {
     grid-template-columns: minmax(0, 1fr);
