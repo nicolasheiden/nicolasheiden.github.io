@@ -21,4 +21,19 @@
 
 ---
 
-<h2 id="projects"><u>rojects</u></h2>
+<h2 id="projects"><u>Projects</u></h2>
+<h3> Shifting Order </h3>
+<figure class="project-showcase">
+	<img src="/Gifs/SO_GameplayGif.gif" alt="Shifting Order gameplay featuring the red panda protagonist">
+</figure>
+### Shifting Order is a 2D Puzzle, platforming game starring a Red Panda where you have to alter the world with a Terminal to be able to reach the end.
+
+<p><strong>My role</strong></p>
+<div class="project-gallery">
+	<figure>
+		<img src="/Images/SO_Terminal.png" alt="Shifting Order terminal puzzle interface">
+	</figure>
+	<figure>
+		<img src="/Images/SO-LevelSelect.png" alt="Shifting Order level select screen">
+	</figure>
+</div>

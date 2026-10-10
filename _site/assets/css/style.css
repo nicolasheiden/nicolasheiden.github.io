@@ -816,6 +816,33 @@ html body #main_content .media-rail img {
   border-radius: 10px;
 }
 
+html body #main_content .project-showcase {
+  margin: 20px 0;
+}
+
+html body #main_content .project-showcase img,
+html body #main_content .project-gallery img {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+html body #main_content .project-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  margin: 16px 0 24px;
+}
+
+html body #main_content .project-gallery figure {
+  min-width: 0;
+  margin: 0;
+}
+
 html body #main_content p {
   margin: 0 0 1.1em;
 }
@@ -995,6 +1022,9 @@ html body .shell footer > p a {
   }
   html body #main_content .media-rail {
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  }
+  html body #main_content .project-gallery {
+    grid-template-columns: minmax(0, 1fr);
   }
   html body .shell footer span.ribbon-inner p {
     font-size: 0.85em;
