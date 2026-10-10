@@ -119,6 +119,6 @@ The project was an opportunity to explore a new gameplay concept independently w
 
 <h2 id="contact">Contact</h2>
 
-- **Email:** [nicolasheiden@hotmail.com](mailto:nicolasheiden@hotmail.com)
-- **Itch:** [superguardian.itch.io](https://superguardian.itch.io)
-- **LinkedIn:** [linkedin.com/in/nicolasheiden](https://www.linkedin.com/in/nicolasheiden)
+- **Email:** <a href="mailto:nicolasheiden@hotmail.com" target="_blank" rel="noopener noreferrer">nicolasheiden@hotmail.com</a>
+- **Itch:** <a href="https://superguardian.itch.io" target="_blank" rel="noopener noreferrer">superguardian.itch.io</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/nicolasheiden" target="_blank" rel="noopener noreferrer">linkedin.com/in/nicolasheiden</a>
