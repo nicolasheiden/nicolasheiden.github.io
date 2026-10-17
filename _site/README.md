@@ -1,5 +1,5 @@
 <nav class="page-tabs" aria-label="Page sections">
-	<a href="#about">About</a>
+	<a href="#intro">Intro</a>
 	<a href="#projects">Projects</a>
 	<a href="#contact">Contact</a>
 </nav>
@@ -9,13 +9,14 @@
 	<a href="#poggle-ascension">Poggle Ascension</a>
 	<a href="#guard-of-the-crossing">Guard of the Crossing</a>
 	<a href="#mas-q">MAS-Q</a>
+	<a href="#drill-baby-drill">Drill Baby Drill</a>
 </nav>
 
 <div class="portfolio-layout">
 <div class="portfolio-copy" markdown="1">
 
 
-<h2 id="about"><u>Who am I?</u></h2>
+<h2 id="intro"><u>Who am I?</u></h2>
 My name is Nicolas Heiden. I'm a Swedish, American Game Programmer/Designer studying at YRGO Game Programmer in Gothenburg, Sweden. I love all things nerdy and love to compete in everything from games to sports. I used to be a Semi-Professional Basketball player but now I have picked up playing Flesh and Blood TCG (Trading Card Game) professionally to scratch that competetive itch. I've always had a love for gaming from playing the orginal LEGO Star Wars games to getting destroyed in Elden Ring. I have played almost every genre of video game as I love to try new things and learn about what we can accomplish as game creators. Making games has been a dream of mine for a long time and I hope to continue making fun and interesting games.
 
 <h2 id="contact">Contact</h2>
@@ -24,6 +25,8 @@ My name is Nicolas Heiden. I'm a Swedish, American Game Programmer/Designer stud
 - **Email:** <a href="mailto:nicolasheiden@hotmail.com" target="_blank" rel="noopener noreferrer">nicolasheiden@hotmail.com</a>
 - **Itch:** <a href="https://superguardian.itch.io" target="_blank" rel="noopener noreferrer">superguardian.itch.io</a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/nicolasheiden" target="_blank" rel="noopener noreferrer">linkedin.com/in/nicolasheiden</a>
+- **CV:** <a href="/Files/Nicolas%20Heiden%20LIA%20CV%202026.pdf" target="_blank" rel="noopener noreferrer">View CV (PDF)</a>
+
 
 Here are some of the Projects I've been involved with:
 
@@ -173,4 +176,17 @@ Guard of the Crossing is a 3 week long Unity project where we ventured into the 
 		</a>
 	</figure>
 </div>
-MAS-Q is a Papers Please like where you're an entry booth ticket inspector for a concert venue. Accept everyone on the Guest List and keep those not on there out. If you let someone in that you're not supposed to, beware as their masks may be more real than you expect. This game was made for in Unity for Global Game Jam 2026 where the theme was Masks. I handled the picking up of the tickets and how you accpeted and declined concert goers.
+MAS-Q is a Papers Please like where you're an booth ticket inspector for a concert venue. Accept everyone on the Guest List and keep those not on there out. If you let someone in that you're not supposed to, beware as their masks may be more real than you expect. This game was made in Unity for Global Game Jam 2026 where the theme was Masks. I handled the picking up of the tickets and how you accpeted and declined concert goers.
+
+---
+
+<h3 id="drill-baby-drill">Drill Baby Drill</h3>
+<div class="project-gallery drill-gallery">
+	<figure>
+		<img src="/Gifs/DBDGP.gif" alt="Drill Baby Drill gameplay">
+	</figure>
+	<figure>
+		<img src="/Gifs/BartenderMog.gif" alt="Bartender Mog in Drill Baby Drill">
+	</figure>
+</div>
+Drill Baby Drill is a Sokuban game made in our own hand built engine. Myself and a partner made the engine with SDL3 and programmed the game in C++. I also hand drew the playable character in Asesprite.
