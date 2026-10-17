@@ -7,6 +7,7 @@
 	<a href="#shifting-order">Shifting Order</a>
 	<a href="#bullet-row">Bullet Row</a>
 	<a href="#poggle-ascension">Poggle Ascension</a>
+	<a href="#guard-of-the-crossing">Guard of the Crossing</a>
 </nav>
 
 <div class="portfolio-layout">
@@ -15,6 +16,13 @@
 
 <h2 id="about"><u>Who am I?</u></h2>
 My name is Nicolas Heiden. I'm a Swedish, American Game Programmer/Designer studying at YRGO Game Programmer in Gothenburg, Sweden. I love all things nerdy and love to compete in everything from games to sports. I used to be a Semi-Professional Basketball player but now I have picked up playing Flesh and Blood TCG (Trading Card Game) professionally to scratch that competetive itch. I've always had a love for gaming from playing the orginal LEGO Star Wars games to getting destroyed in Elden Ring. I have played almost every genre of video game as I love to try new things and learn about what we can accomplish as game creators. Making games has been a dream of mine for a long time and I hope to continue making fun and interesting games.
+
+<h2 id="contact">Contact</h2>
+
+<h3>Let's make something cool together! </h3>
+- **Email:** <a href="mailto:nicolasheiden@hotmail.com" target="_blank" rel="noopener noreferrer">nicolasheiden@hotmail.com</a>
+- **Itch:** <a href="https://superguardian.itch.io" target="_blank" rel="noopener noreferrer">superguardian.itch.io</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/nicolasheiden" target="_blank" rel="noopener noreferrer">linkedin.com/in/nicolasheiden</a>
 
 Here are some of the Projects I've been involved with:
 
@@ -116,9 +124,17 @@ The result is a short roguelike inspired by pachinko, where players launch Orbs 
 
 The project was an opportunity to explore a new gameplay concept independently while challenging myself to recreate a game experience from secondhand knowledge.
 
+---
 
-<h2 id="contact">Contact</h2>
-
-- **Email:** <a href="mailto:nicolasheiden@hotmail.com" target="_blank" rel="noopener noreferrer">nicolasheiden@hotmail.com</a>
-- **Itch:** <a href="https://superguardian.itch.io" target="_blank" rel="noopener noreferrer">superguardian.itch.io</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/nicolasheiden" target="_blank" rel="noopener noreferrer">linkedin.com/in/nicolasheiden</a>
+<h3 id="guard-of-the-crossing">Guard of the Crossing</h3>
+<figure class="project-showcase crossing-showcase">
+	<img src="/Gifs/guardofthecrossing.gif" alt="Guard of the Crossing gameplay">
+</figure>
+<div class="project-gallery crossing-gallery">
+	<figure>
+		<img src="/Images/gotc-scene.png" alt="Guard of the Crossing scene">
+	</figure>
+	<figure>
+		<img src="/Images/gotc-deco.png" alt="Guard of the Crossing environment decoration">
+	</figure>
+</div>
