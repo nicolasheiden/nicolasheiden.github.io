@@ -126,16 +126,22 @@ The project was an opportunity to explore a new gameplay concept independently w
 
 ---
 
-<h3 id="guard-of-the-crossing">Guard of the Crossing</h3>
+<h3 id="guard-of-the-crossing"><a class="project-title-link" href="https://dumlo.itch.io/guard-of-the-crossing" target="_blank" rel="noopener noreferrer">Guard of the Crossing</a></h3>
 <figure class="project-showcase crossing-showcase">
-	<img src="/Gifs/guardofthecrossing.gif" alt="Guard of the Crossing gameplay">
+	<a class="project-media-link" href="https://dumlo.itch.io/guard-of-the-crossing" target="_blank" rel="noopener noreferrer" aria-label="Open Guard of the Crossing on itch.io">
+		<img src="/Gifs/guardofthecrossing.gif" alt="Guard of the Crossing gameplay">
+	</a>
 </figure>
 <div class="project-gallery crossing-gallery">
 	<figure>
-		<img src="/Images/gotc-scene.png" alt="Guard of the Crossing scene">
+		<a class="project-media-link" href="https://dumlo.itch.io/guard-of-the-crossing" target="_blank" rel="noopener noreferrer" aria-label="Open Guard of the Crossing on itch.io">
+			<img src="/Images/gotc-scene.png" alt="Guard of the Crossing scene">
+		</a>
 	</figure>
 	<figure>
-		<img src="/Images/gotc-deco.png" alt="Guard of the Crossing environment decoration">
+		<a class="project-media-link" href="https://dumlo.itch.io/guard-of-the-crossing" target="_blank" rel="noopener noreferrer" aria-label="Open Guard of the Crossing on itch.io">
+			<img src="/Images/gotc-deco.png" alt="Guard of the Crossing environment decoration">
+		</a>
 	</figure>
 </div>
 Guard of the Crossing is a 3 week long Unity project where we ventured into the realm of Virual Reality. It is a game where objects come flying at you and you need to slice through some with your sword, block some with your shield, and dodge certain other objects. My role was mainly working on some particle effects and working with the main slicing logic. The slicing works quite well and checks where you entered with the sword and where you left to leave a correctly oriented slice. 
