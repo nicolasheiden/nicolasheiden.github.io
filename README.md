@@ -8,6 +8,7 @@
 	<a href="#bullet-row">Bullet Row</a>
 	<a href="#poggle-ascension">Poggle Ascension</a>
 	<a href="#guard-of-the-crossing">Guard of the Crossing</a>
+	<a href="#mas-q">MAS-Q</a>
 </nav>
 
 <div class="portfolio-layout">
@@ -145,3 +146,31 @@ The project was an opportunity to explore a new gameplay concept independently w
 	</figure>
 </div>
 Guard of the Crossing is a 3 week long Unity project where we ventured into the realm of Virual Reality. It is a game where objects come flying at you and you need to slice through some with your sword, block some with your shield, and dodge certain other objects. My role was mainly working on some particle effects and working with the main slicing logic. The slicing works quite well and checks where you entered with the sword and where you left to leave a correctly oriented slice. 
+
+
+---
+
+<h3 id="mas-q"><a class="project-title-link" href="https://superguardian.itch.io/mas-q" target="_blank" rel="noopener noreferrer">MAS-Q</a></h3>
+<figure class="project-showcase">
+	<a class="project-media-link" href="https://superguardian.itch.io/mas-q" target="_blank" rel="noopener noreferrer" aria-label="Open MAS-Q on itch.io">
+		<img src="/Gifs/MasqGP.gif" alt="MAS-Q gameplay animation">
+	</a>
+</figure>
+<div class="project-gallery masq-gallery">
+	<figure>
+		<a class="project-media-link" href="https://superguardian.itch.io/mas-q" target="_blank" rel="noopener noreferrer" aria-label="Open MAS-Q on itch.io">
+			<img src="/Images/MasqCameo.png" alt="A character cameo in MAS-Q">
+		</a>
+	</figure>
+	<figure>
+		<a class="project-media-link" href="https://superguardian.itch.io/mas-q" target="_blank" rel="noopener noreferrer" aria-label="Open MAS-Q on itch.io">
+			<img src="/Images/MasqGuestlist.png" alt="The guest list in MAS-Q">
+		</a>
+	</figure>
+	<figure>
+		<a class="project-media-link" href="https://superguardian.itch.io/mas-q" target="_blank" rel="noopener noreferrer" aria-label="Open MAS-Q on itch.io">
+			<img src="/Images/MasqPaper.png" alt="An in-game newspaper in MAS-Q">
+		</a>
+	</figure>
+</div>
+MAS-Q is a Papers Please like where you're an entry booth ticket inspector for a concert venue. Accept everyone on the Guest List and keep those not on there out. If you let someone in that you're not supposed to, beware as their masks may be more real than you expect. This game was made for in Unity for Global Game Jam 2026 where the theme was Masks. I handled the picking up of the tickets and how you accpeted and declined concert goers.

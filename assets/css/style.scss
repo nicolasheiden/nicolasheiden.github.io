@@ -275,6 +275,10 @@ html body #main_content .project-gallery.poggle-gallery {
   margin-inline: auto;
 }
 
+html body #main_content .project-gallery.masq-gallery {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 html body #main_content .project-gallery figure {
   min-width: 0;
   margin: 0;
