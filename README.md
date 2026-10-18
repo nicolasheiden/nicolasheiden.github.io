@@ -22,10 +22,12 @@ My name is Nicolas Heiden. I'm a Swedish, American Game Programmer/Designer stud
 <h2 id="contact">Contact</h2>
 
 <h3>Let's make something cool together! </h3>
-- **Email:** <a href="mailto:nicolasheiden@hotmail.com" target="_blank" rel="noopener noreferrer">nicolasheiden@hotmail.com</a>
-- **Itch:** <a href="https://superguardian.itch.io" target="_blank" rel="noopener noreferrer">superguardian.itch.io</a>
-- **LinkedIn:** <a href="https://www.linkedin.com/in/nicolasheiden" target="_blank" rel="noopener noreferrer">linkedin.com/in/nicolasheiden</a>
-- **CV:** <a href="/Files/Nicolas%20Heiden%20LIA%20CV%202026.pdf" target="_blank" rel="noopener noreferrer">View CV (PDF)</a>
+<h4>
+- Email: <a href="mailto:nicolasheiden@hotmail.com" target="_blank" rel="noopener noreferrer">nicolasheiden@hotmail.com</a>
+- Itch: <a href="https://superguardian.itch.io" target="_blank" rel="noopener noreferrer">superguardian.itch.io</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/nicolasheiden" target="_blank" rel="noopener noreferrer">linkedin.com/in/nicolasheiden</a>
+- CV: <a href="/Files/Nicolas%20Heiden%20LIA%20CV%202026.pdf" target="_blank" rel="noopener noreferrer">View CV (PDF)</a>
+</h4>
 
 
 Here are some of the Projects I've been involved with:
